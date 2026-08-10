@@ -20,7 +20,7 @@ O projeto possui uma navegação simples e organizada, com foco em proporcionar 
 
 O projeto está disponível para visualização online:
 
-🔗 **[Visualizar Scale Fintech](https://santosjunio.github.io/filtec/)**
+🔗 **[Visualizar Fintech](https://santosjunio.github.io/filtec/)**
 
 
 ---
